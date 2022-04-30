@@ -5,9 +5,9 @@
 }
 
 .header{
-    min-height: 70vh;
+    min-height: 100vh;
     width: 100%;
-    background-color: rgb(43, 43, 43);
+    background-color: #F2B79F;
     background-position: center;
     background-size: cover;
     position: relative;
@@ -18,7 +18,7 @@
     width:100%;
     background-color: #CFC0C0;
     text-align: center;
-    color: white;
+    color: #FED4E7;
 }
 
 .sub-header h1{
